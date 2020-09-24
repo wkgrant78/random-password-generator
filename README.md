@@ -17,14 +17,16 @@ Create an application that an employee can use to generate a random password bas
 
 ### DEVELOPMENTS/COMMITS:
 
-* Created vars, functions, if/else for password criteria
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Created vars, functions, if/else for password criteria - criteria prompts working, no password
+* Googled how to add items to an array -> .push() - prompts still working, no password
+* Googled how to get a string from an array -> .join() - prompts still working, no password
+* Search js for inconsistencies - upperCase/upper
+* deployed ---prompts working, password generated!!!
+
+### IMPROVEMENTS/QUESTIONS:
+
+* Criteria if/else statements can be condensed but I couldn't figure out how to do it... yet
+* Is there a way to get upper case from lower case (or vice versa)? 
 
 
 ### REQUIREMENTS:
