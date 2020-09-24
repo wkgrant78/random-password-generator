@@ -49,7 +49,7 @@ Create an application that an employee can use to generate a random password bas
 
 * Deployed application URL:
 
-
+https://wkgrant78.github.io/WKG-HW3/
 
 * GitHub Repo URL:
 
