@@ -1,5 +1,4 @@
-# WKG-HW3
-Password Generator
+# PASSWORD GENERATOR
 
 ### DESCRIPTION: 
 Create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
@@ -45,12 +44,3 @@ Create an application that an employee can use to generate a random password bas
 * Repository contains multiple descriptive commit messages.
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
-### LINKS:
-
-* Deployed application URL:
-
-https://wkgrant78.github.io/WKG-HW3/
-
-* GitHub Repo URL:
-
-https://github.com/wkgrant78/WKG-HW3
